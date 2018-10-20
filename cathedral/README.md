@@ -62,7 +62,7 @@ What we have in the loot:
 
 - Function.uncurried
 
-## How is zombie compoosed?
+## How is zombie composed?
 
 ![zombie](https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/14/Zombie_%28Diablo_I%29.gif?version=24113720a76014d2a03582a9ebc69dd2)
 
