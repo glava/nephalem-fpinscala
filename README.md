@@ -8,7 +8,7 @@ I decided to go through book one more time and document my experience through a 
 
 We will together explore:
 
-- Cathedral - Introduction to Functional Programming
+- [Cathedral](https://github.com/glava/nephalem-fpinscala/blob/master/cathedral/README.md) - Introduction to Functional Programming
 - Catacombs - Functional Design and Combinator Libraries
 - Cave - Common Structures in Functional Design
 - Hell - Effects and I/O
