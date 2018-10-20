@@ -39,4 +39,4 @@ def isSorted[A](as: Array[A], gt: (A,A) => Boolean): Boolean = ???
 
 Solutions for Cathedral can be found [here](https://github.com/fpinscala/fpinscala/blob/master/answers/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala)
 
-All examples are taken from repo that comes with the book: https://github.com/fpinscala/fpinscala/blob/master/answers/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala - now go and buy this awsome book
+All examples are taken from repo that comes with the book: https://github.com/fpinscala/fpinscala/blob/master/answers/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala - now go and buy this awesome book
