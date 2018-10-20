@@ -41,6 +41,41 @@ This monster is not a difficult one but it drops some unique items:
  - polymorphic functions
  - anonymous functions
 
+## Curry me further
+
+![Skeleton](https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/04/Skeleton_%28Diablo_I%29.gif?version=5f70421d890b68881bc6ea037978b998)
+
+Oops we are atacked by the pack, and it is a curry pack. 
+
+Lets try to solve:
+
+```
+def curry[A,B,C](f: (A, B) => C): A => (B => C) = ???
+```
+
+and
+```
+  def uncurry[A,B,C](f: A => B => C): (A, B) => C = ???
+```
+
+What we have in the loot:
+
+- Function.uncurried
+
+## How is zombie compoosed?
+
+![zombie](https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/14/Zombie_%28Diablo_I%29.gif?version=24113720a76014d2a03582a9ebc69dd2)
+
+Lets find out by doing:
+
+```
+def compose[A,B,C](f: B => C, g: A => B): A => C = ???
+```
+
+He stumbels and fall and behind him we find
+
+- f `compose` g
+- f `andThen` g
 
 ## Don't forget
 
