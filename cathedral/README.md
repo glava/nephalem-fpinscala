@@ -15,10 +15,10 @@ Our task is to write a function to compute the nth fibonacci number
 
 For this, we will reach out to just learned recursion. 
 
-We mentioned:
+We should end this task with next loot:
+
  - tailrecursion
- - higer order funciton
- - polymorphic functions
+ - function inside a function
 
 Dig through the book to understand why we use tailrecursion and how to define higer order funciton.
 
@@ -34,6 +34,12 @@ We are expected to write a a polymorphic function to check whether an `Array[A]`
 ```  
 def isSorted[A](as: Array[A], gt: (A,A) => Boolean): Boolean = ???
 ```
+
+This monster is not a difficult one but it drops some unique items:
+
+ - higer order funciton
+ - polymorphic functions
+
 
 ## Don't forget
 
