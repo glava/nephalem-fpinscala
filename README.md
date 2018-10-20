@@ -1,4 +1,4 @@
-# Nephalem guide through Functional Program in Scala
+# Nephalem guide through Functional Programing in Scala
 
 Over the years working with Scala, building large-scale projects, mentoring people and going to various Scala meetups I come with terms that probably most influential book in Scala ecosystem is: [Functional Programming in Scala by Paul Chiusano and Runar Bjarnason](https://www.manning.com/books/functional-programming-in-scala)
 
