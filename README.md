@@ -1,5 +1,7 @@
 # Nephalem guide through Functional Programing in Scala
 
+## Introduction
+
 Over the years working with Scala, building large-scale projects, mentoring people and going to various Scala meetups I come with terms that probably most influential book in Scala ecosystem is: [Functional Programming in Scala by Paul Chiusano and Runar Bjarnason](https://www.manning.com/books/functional-programming-in-scala)
 
 Usually referenced just as Red Book, it is a great read for getting up the speeds with, among others things, concepts like pure functions, functional data structures, property-based testing, and infamous monads. Probably because of its density, some parts of the book are a hurdle for some Scala [nephalems](http://diablo.wikia.com/wiki/Nephalem). 
@@ -13,5 +15,5 @@ We will together explore:
 - Cave - Common Structures in Functional Design
 - Hell - Effects and I/O
 
-
+I will be using [repo](https://github.com/fpinscala/fpinscala) that follows book as guide. It is recommended to have a copy of Red Book, as I'm going to reference it. Think about this experiment as book reading club where we meet and I go through exercises using my InteliJ Idea, and this repo as a place where you can find notes from our meetups.
 
