@@ -1,4 +1,4 @@
-# Cathedral of introduction to functional programming
+# Cathedral or introduction to functional programming
 
 ## First one to fall
 
