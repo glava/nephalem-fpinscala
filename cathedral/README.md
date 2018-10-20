@@ -39,6 +39,7 @@ This monster is not a difficult one but it drops some unique items:
 
  - higer order funciton
  - polymorphic functions
+ - anonymous functions
 
 
 ## Don't forget
