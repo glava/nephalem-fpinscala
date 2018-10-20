@@ -15,5 +15,10 @@ We will together explore:
 - Cave - Common Structures in Functional Design
 - Hell - Effects and I/O
 
-I will be using [repo](https://github.com/fpinscala/fpinscala) that follows book as guide. It is recommended to have a copy of Red Book, as I'm going to reference it. Think about this experiment as book reading club where we meet and I go through exercises using my InteliJ Idea, and this repo as a place where you can find notes from our meetups.
+I will be using [repo](https://github.com/fpinscala/fpinscala) that follows book as guide. It is recommended to have a copy of Red Book, as I'm going to reference it. Think about this experiment as book reading club where we meet and I go through exercises using my Intellij Idea, and this repo as a place where you can find notes from our meetups. 
 
+So I suggest:
+- get Functional Programming in Scala
+- check out [repo](https://github.com/fpinscala/fpinscala)
+- load project into Intellij Idea (you can get community edition with sbt plugin)
+- meet me at Twitch
