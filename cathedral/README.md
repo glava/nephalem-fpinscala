@@ -26,7 +26,7 @@ Solutions for Cathedral can be found here https://github.com/fpinscala/fpinscala
 
 ## Scavenge that array
 
-![Scavanger](https://diablo.gamepedia.com/File:Scavenger_(Diablo_I).gif)
+![Scavanger](https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/8d/Scavenger_%28Diablo_I%29.gif?version=f93598aa94853bc368ececf5d1c37d64)
 
 We got some exp, we can add a bit of points to intelegence and try next task.
 We are expected to write a a polymorphic function to check whether an `Array[A]` is sorted [1]
