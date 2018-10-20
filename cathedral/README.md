@@ -2,7 +2,7 @@
 
 ## First one to fall
 
-image::https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/2f/Fallen_%28Diablo_I%29.gif?version=2197831347a1e9e1ee94fc04b4805dca[]
+![first one](https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/2f/Fallen_%28Diablo_I%29.gif?version=2197831347a1e9e1ee94fc04b4805dca)
 
 First exercises come in the form of Fibonacci numbers. Wiki says:
 The Fibonacci numbers are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones.
@@ -26,7 +26,7 @@ Solutions for Cathedral can be found here https://github.com/fpinscala/fpinscala
 
 ## Scavenge that array
 
-image::https://diablo.gamepedia.com/File:Scavenger_(Diablo_I).gif[]
+![Scavanger](https://diablo.gamepedia.com/File:Scavenger_(Diablo_I).gif)
 
 We got some exp, we can add a bit of points to intelegence and try next task.
 We are expected to write a a polymorphic function to check whether an `Array[A]` is sorted [2]
